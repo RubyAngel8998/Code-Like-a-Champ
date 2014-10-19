@@ -21,4 +21,5 @@ Learn more about programming by following tutorials on the following websites.
 ## else {
 `// Translation: Didn't find what you are looking for? Contact an officer.`
 Club email - bocahighcsc@gmail.com
-Gabe - gabtimotei@gmail.com || 954-980-2752 //if(you text me) { send me your name please, I can't read minds }
+Gabe - gabtimotei@gmail.com || 954-980-2752 
+`// if(you text me) { send me your name please, I can't read minds }`
