@@ -18,6 +18,10 @@ Learn more about programming by following tutorials on the following websites.
 - http://buckysroom.org/
 - https://dash.generalassemb.ly/
 
+If you want to learn more about the cms wordpress we will be using, refer to the following tutorials. If you get stuck you know how to contact us.
+- http://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP
+- http://www.wpexplorer.com/create-wordpress-theme-html-1/
+
 ## else {
 `// Translation: Didn't find what you are looking for? Contact an officer.`
 
