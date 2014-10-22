@@ -4,18 +4,27 @@ Code-Like-a-Champ
 The all purpose CSC repo
 
 ## if( you.new == *true* ) {
-`// Translation: if you are new`
+`// If you are new`
 
 1. Text `@bocahighc` to `561-402-7220`
 2. Star this repository so we can add you to the GitHub Team
 3. See the learning resources below and start learning all the things! You are recommended to start with html, css, and javascript/jquery. If it seems overwhelming at first, don't worry and ask a lot of questions.
 
 ## if( you.lazy == *false* || you.new == *true* ) {
-`// Translation: If you want to learn or you are new`
+`// If you want to learn or you are new`
 
 Learn more about programming by following tutorials on the following websites.
 - http://www.codecademy.com/learn
+  - HTML & CSS
+  - Javascript and jQuery
+  - Make a Website
+  - Make an Interactive Website
+  - PHP `// If you want to get ahead`
 - http://buckysroom.org/
+  - XHTML & CSS
+  - HTML5
+  - Javascript and jQuery
+  - PHP `// Choose tutorial with most videos`
 - https://dash.generalassemb.ly/
 
 If you want to learn more about the cms wordpress we will be using, refer to the following tutorials. If you get stuck you know how to contact us.
@@ -26,7 +35,7 @@ If you want to learn more about the cms wordpress we will be using, refer to the
 - Great starter WordPress theme *(recommended to do the third tutorial first)*: http://underscores.me
 
 ## else {
-`// Translation: Didn't find what you are looking for? Contact an officer.`
+`// Didn't find what you are looking for? Contact an officer.`
 
 Club email - bocahighcsc@gmail.com
 
